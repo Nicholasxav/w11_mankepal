@@ -13,11 +13,11 @@ public class Counter {
 	}
 	
 	public void increment() {
-		count++;
+		count += 5;
 	}
 	
 	public void decrement() {
-		count--;
+		count ++;
 	}
 	
 	public int getCount() {
